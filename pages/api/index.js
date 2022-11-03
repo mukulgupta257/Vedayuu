@@ -1,5 +1,5 @@
-// const API_ROOT = 'https://vedayuu.herokuapp.com'; //THIS IS LOCAL LINK
-const API_ROOT = "http://localhost:8000"; //THIS IS LOCAL LINK
+const API_ROOT = "https://vedayuu.herokuapp.com"; //THIS IS LOCAL LINK
+// const API_ROOT = "http://localhost:8000"; //THIS IS LOCAL LINK
 //https://vedayuu.herokuapp.com
 const APIUrls = {
   login: API_ROOT + "/user/login",
